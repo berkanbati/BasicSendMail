@@ -5,8 +5,8 @@
 
 
 ## İçindekiler
-* [Genel bilgi] (# genel bilgi)
-* [Teknolojiler] (# teknoloji)
+* [General info](#general-info)
+* [Technologies](#technologies)
 
 ## Genel Bilgi
 - It sends a simple mail to your address
